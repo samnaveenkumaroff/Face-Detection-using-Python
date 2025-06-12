@@ -1,7 +1,7 @@
 import cv2
 import time
 
-# Initialize the face detection model
+# Initialize the face detection model, CascadeClassifier
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
 
 # Check if model is loaded
