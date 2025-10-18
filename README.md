@@ -9,7 +9,7 @@ The face detection process uses OpenCV's pre-trained Haar Cascade model (`haarca
 
 This project can be extended to other facial recognition tasks, like tracking multiple faces or integrating deep learning-based face detection methods like DNN (Deep Neural Networks) for better accuracy.
 
----
+--- 
 
 ## Features
 
