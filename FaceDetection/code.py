@@ -1,6 +1,6 @@
 import cv2
 import time
-#time module to log in Attendance
+#time module to log in Attendance in
 # Initialize the face detection model, CascadeClassifier
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
 
@@ -71,5 +71,6 @@ while True:
 # Clean up
 cap.release()
 cv2.destroyAllWindows()
+
 
 
