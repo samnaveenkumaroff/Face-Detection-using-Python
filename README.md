@@ -1,4 +1,3 @@
-
 # Face Detection using Python
 
 ## Project Overview
